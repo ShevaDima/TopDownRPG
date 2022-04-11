@@ -22,3 +22,5 @@ src/KnowledgeIsPower/Assets/Plugins/Editor/JetBrains
 # Build related
 Cake/tools/**
 Cake/!tools/packages.config
+src/KnowledgeIsPower/Logs
+src/KnowledgeIsPower/UserSettings
